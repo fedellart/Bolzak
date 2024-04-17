@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+    font-family: "Space Mono", monospace;
+    background-image: url(../img/textura.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+}
