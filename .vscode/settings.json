@@ -1,0 +1,9 @@
+{
+    "editor.linkedEditing": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": true,
+    "breadcrumbs.enabled": false,
+    "notebook.stickyScroll.enabled": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "expand"
+}
